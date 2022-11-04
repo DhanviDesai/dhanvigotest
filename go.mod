@@ -1,3 +1,3 @@
-module github.com/DhanviDesai/gotest
+module github.com/dhanvidesai/gotest
 
 go 1.13
